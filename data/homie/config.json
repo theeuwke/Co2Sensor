@@ -1,0 +1,14 @@
+{
+  "name": "co2-meter",
+  "wifi": {
+    "ssid": "<sssid>",
+    "password": "<passphrase>"
+  },
+  "mqtt": {
+    "host": "raspberrypi.lan",
+    "port": 1883
+  },
+  "ota": {
+    "enabled": true 
+  }
+}
