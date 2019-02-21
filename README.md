@@ -1,6 +1,6 @@
 Co2Sensor
 
-Requires home, see:
+Requires homie, see:
 https://github.com/marvinroger/homie-esp8266
 https://homie-esp8266.readme.io/
 
